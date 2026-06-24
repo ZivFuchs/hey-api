@@ -1,0 +1,8 @@
+{
+  "$schema": "https://biomejs.dev/schemas/2.0.0/schema.json",
+  // This repo formats with oxfmt (see .oxfmtrc.json). Disable Biome's
+  // formatter so editors with the Biome extension don't fight oxfmt.
+  "formatter": {
+    "enabled": false,
+  },
+}
